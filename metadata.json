@@ -1,0 +1,6 @@
+{
+  "name": "ConvertHub Pro",
+  "description": "Fast, secure online file converter with a premium dark glassmorphic dashboard, complete file-format filters, offline conversion, and custom charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
